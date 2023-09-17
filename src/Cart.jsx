@@ -62,8 +62,8 @@ const handleRemove = (remove) =>{
   return (
     <div>
         {
-             <div className="flex gap-4 w-11/12 mx-auto mt-5">
-                 <div className="flex-1 grid grid-cols-3 gap-3">
+             <div className="flex flex-col md:flex-row gap-4 w-11/12 mx-auto mt-5">
+                 <div className="flex-1 grid md:grid-cols-2 lg:grid-cols-3 gap-3">
 
                {
                   cart.map(Cart =>(
@@ -93,7 +93,7 @@ const handleRemove = (remove) =>{
                
          
                 </div>
-                <div className="w-[300px] bg-purple-100 px-4 rounded-xl">
+                <div className="w-[300px] bg-purple-100 px-4 rounded-xl py-3 mx-auto">
                 
                 <Show 
                 Shows={Shows}
