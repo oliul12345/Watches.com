@@ -1,8 +1,12 @@
-# React + Vite
+# Some features in our website :
+1. User-Friendly Navigation
+  =>The key to helping customers find the products they need quickly is to offer a user-friendly navigation system.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Site Search
+  =>In addition to user-friendly navigation, site search is a feature found on most of the top ecommerce sites.
 
-Currently, two official plugins are available:
+3. Generous Return Policy  
+  => Want to increase consumer confidence in the products you sell? Offer a generous return policy and include it on your product page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. FAQ For Products  
+  =>Another way to incorporate user-generated content into your ecommerce store is by adding a section of the most frequently asked questions by customers.
