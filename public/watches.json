@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Leather Watch",
+      "quality": "High",
+      "price": 199.99,
+      "brand": "TimeMaster",
+      "img":"https://m.media-amazon.com/images/I/71JVulFywcL._AC_UX569_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sports Chronograph",
+      "quality": "Medium",
+      "price": 149.95,
+      "brand": "SportyTech",
+      "img":"https://m.media-amazon.com/images/I/61dsClmPOyL._AC_UX679_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Elegant Gold Watch",
+      "quality": "High",
+      "price": 299.99,
+      "brand": "LuxuryWear",
+      "img":"https://m.media-amazon.com/images/I/61Fqn8MEWpL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Digital Smartwatch",
+      "quality": "High",
+      "price": 249.99,
+      "brand": "TechGadget",
+      "img":"https://m.media-amazon.com/images/I/81EU5pMPThL._AC_UY679_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Minimalist Quartz Watch",
+      "quality": "Low",
+      "price": 49.99,
+      "brand": "BudgetTime",
+      "img":"https://m.media-amazon.com/images/I/91Ew-Q9T4uL._AC_UY679_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dive Master Pro",
+      "quality": "High",
+      "price": 399.95,
+      "brand": "AquaDive",
+      "img":"https://m.media-amazon.com/images/I/81Ys12rFOAL._AC_UX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Retro Vintage Watch",
+      "quality": "Medium",
+      "price": 129.99,
+      "brand": "TimelessClassics",
+      "img":"https://m.media-amazon.com/images/I/71l8dGWoivL._AC_UY679_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Smart Fitness Tracker",
+      "quality": "High",
+      "price": 179.99,
+      "brand": "FitTech",
+      "img":"https://m.media-amazon.com/images/I/61EnNNr8V5L._AC_UX679_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fashionable Rose Gold",
+      "quality": "Medium",
+      "price": 169.95,
+      "brand": "ChicStyle",
+      "img":"https://m.media-amazon.com/images/I/71JVulFywcL._AC_UX569_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Aviator Pilot Watch",
+      "quality": "High",
+      "price": 299.99,
+      "brand": "SkyMaster",
+      "img":"https://m.media-amazon.com/images/I/61vxeB+-xyL._AC_UX679_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Outdoor Adventure Watch",
+      "quality": "High",
+      "price": 229.95,
+      "brand": "TrailBlazer",
+      "img":"https://m.media-amazon.com/images/I/71JVulFywcL._AC_UX569_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Stylish Ceramic Watch",
+      "quality": "Medium",
+      "price": 129.99,
+      "brand": "Ceramix",
+      "img":"https://m.media-amazon.com/images/I/61EnNNr8V5L._AC_UX679_.jpg"
+    }
+  ]
+  
